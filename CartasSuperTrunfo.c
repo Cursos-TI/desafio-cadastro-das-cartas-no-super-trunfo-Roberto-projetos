@@ -11,7 +11,7 @@ int main(){
     int populacao2, pontosTuristicos2;
     float area2, pib2;
 // 1ª carta printf e scanf
-    printf("Cadastro da primeira carta:\n");
+    printf("Cadastro da primeira carta: \n");
       printf("Digite o código da carta (ex: A01): ");
       scanf("%s", codigo1);
       printf("Digite o nome do estado: ");
